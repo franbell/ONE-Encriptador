@@ -5,3 +5,5 @@ Completo.
 Para ejecutar el sistema, debes poner:
 
 ```npm install react```
+
+Cambio al README con fines didácticos
